@@ -238,16 +238,7 @@ Check out the [Nuxt.js deployment documentation](https://nuxt.com/docs/getting-s
 Support the author 支持作者
 
 If you find this project enjoyable and genuinely helpful, kindly consider supporting it with your contributions and stars. Thanks!
-如果你喜欢这个项目，并且它对你确实有帮助，请不要吝啬你的打赏和Star.
-
-### WeChat 微信
-
-<img src="public/wechat.jpg" alt="WeChat 微信" width="35%" height="35%">
-
-### Alipay 支付宝
-
-<img src="public/alipay.jpg" alt="Alipay 支付宝" width="35%" height="35%">
-
+如果你喜欢这个项目，并且它对你确实有帮助，请不要吝啬你的Star.
 
 ## Star History
 
